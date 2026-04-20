@@ -5,11 +5,11 @@
 <p align="center">
   <strong>Développeur Web Fullstack</strong> — Backend-oriented 🛠️
 </p>
-
+<!--
 <p align="center">
   <em>"Le code, c'est comme une recette : la rigueur dans les ingrédients, la créativité dans l'assemblage."</em>
 </p>
-
+-->
 <p align="center">
   <a href="https://www.linkedin.com/in/clement-rodriguez-pro/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
